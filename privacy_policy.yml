@@ -1,0 +1,92 @@
+site:
+  title: "MoodWall – Privacy Policy"
+  meta:
+    charset: "UTF-8"
+    viewport: "width=device-width, initial-scale=1.0"
+    robots: "noindex"
+
+page:
+  header:
+    brand: "MoodWall"
+    subtitle: "Privacy Policy"
+
+  sections:
+    - id: 1
+      heading: "1. Introduction"
+      content: >
+        Welcome to MoodWall. We respect your privacy and are committed to protecting
+        any information that may be processed through your use of our application.
+        This policy explains how we handle your data to ensure a safe and trustworthy experience.
+
+    - id: 2
+      heading: "2. Information Collection"
+      content: "MoodWall is designed to be privacy-first. We only request access to features necessary for the app's functionality:"
+      items:
+        - label: "Camera Access"
+          description: "Used exclusively for real-time facial expression and color detection."
+        - label: "Sensor Access"
+          description: "Used for gesture-based features like \"Shake to Change.\""
+        - label: "Purchase Data"
+          description: "We use Google Play Billing to verify and restore your premium feature ownership."
+      note: "We do not collect or store unnecessary personal identification data."
+
+    - id: 3
+      heading: "3. Camera Usage"
+      content: "Our app uses the device camera to enable the interactive Panda and dynamic wallpaper features. We value your trust in this regard:"
+      items:
+        - label: "No Storage"
+          description: "Facial data, photos, and videos are processed in real-time and are never stored on your device or uploaded to any server."
+        - label: "Local Processing"
+          description: "All facial analysis and color detection happen 100% locally on your device. No data ever leaves your phone."
+        - label: "Real-Time Only"
+          description: "The camera is active only when the wallpaper is visible or during preview setup."
+
+    - id: 4
+      heading: "4. Data Storage"
+      content: >
+        MoodWall does not store personal media (photos/videos). Any data stored locally
+        is limited to your app settings, preferences, and cached assets required for
+        the wallpaper's performance.
+
+    - id: 5
+      heading: "5. Third-Party Services"
+      content: "To provide a high-quality experience, we may use the following third-party services which have their own privacy policies:"
+      items:
+        - "Google Play Services"
+        - "Google Play Billing"
+        - "AdMob (for reward-based ad features)"
+        - "Firebase Analytics (for improving app stability)"
+
+    - id: 6
+      heading: "6. Children's Privacy"
+      content: >
+        MoodWall does not knowingly collect personal information from children.
+        Our interactive features are designed for general audiences and do not
+        store or transmit any identifiable data.
+
+    - id: 7
+      heading: "7. Security"
+      content: >
+        We implement reasonable security measures to protect your local preferences
+        and ensure the integrity of the application. Since we do not collect personal
+        data on our own servers, the risk of a data breach is minimized.
+
+    - id: 8
+      heading: "8. Changes to Policy"
+      content: >
+        We may update this Privacy Policy from time to time. We encourage users to
+        check this page periodically for any changes. Your continued use of the app
+        signifies your acceptance of the updated policy.
+
+    - id: 9
+      heading: "9. Contact Us"
+      type: "contact"
+      content: "If you have any questions or suggestions regarding our Privacy Policy, do not hesitate to contact us at:"
+      email:
+        label: "Email"
+        address: "sierraxkika1@gmail.com"
+        href: "mailto:sierraxkika1@gmail.com"
+
+  footer:
+    last_updated: "May 15, 2026"
+    copyright: "2026 MoodWall. All rights reserved."
